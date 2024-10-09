@@ -29,12 +29,3 @@ This project provides a solution for integrating multiple OpsGenie tenants (team
 ## Logging
 
 The script writes every action to `opsgenie.log` in the same directory, allowing you to verify if an action was called to OpsGenie or not.
-
-## Support
-
-For any issues or questions, please contact [Your Support Contact Information].
-
-## License
-
-[Include your license information here]
-
