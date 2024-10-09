@@ -14,3 +14,5 @@ Replace a process level token
 Act as part of the operation system
 Log on as a batch job
 Log on as a service
+
+The script writes every action to "opsgenie.log" in the same directory, so you can verify if an action was called to OpsGenie or not.
