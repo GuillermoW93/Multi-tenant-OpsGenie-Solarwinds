@@ -2,7 +2,7 @@
 
 # Multi-Tenant OpsGenie Integration with Solarwinds via PowerShell
 
-This project provides a solution for integrating **multiple OpsGenie tenants** (teams) with Solarwinds, which is currently not natively supported in version <a Solarwinds HCO 2025.1=https://documentation.solarwinds.com/en/success_center/orionplatform/content/release_notes/hco_2025-1-1_release_notes.htm></a>
+This project provides a solution for integrating **multiple OpsGenie tenants** (teams) with Solarwinds, which is currently not natively supported in version [Solarwinds HCO 2025.1](https://documentation.solarwinds.com/en/success_center/orionplatform/content/release_notes/hco_2025-1-1_release_notes.htm)
 
  Using a custom property value (e.g., `opsgenie_key`) to store API keys, this PowerShell script reads the custom property value when an alert is triggered.
 
